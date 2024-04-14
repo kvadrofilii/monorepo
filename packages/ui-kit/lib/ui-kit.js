@@ -1,7 +1,9 @@
-'use strict';
+"use strict";
 
 module.exports = uiKit;
 
 function uiKit() {
-  return 'Hello from uiKit';
+  console.log("test");
+
+  return "Hello from uiKit";
 }
