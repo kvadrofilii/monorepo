@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Michael Yakovlev <kvadrofilii@gmail.com>",
+  "homepage": "https://github.com/kvadrofilii/monorepo#readme",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "private": true,
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvadrofilii/monorepo.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/kvadrofilii/monorepo/issues"
+  }
+}
