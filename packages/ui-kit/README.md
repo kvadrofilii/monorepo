@@ -1,11 +1,11 @@
-# `app`
+# `ui-kit`
 
 > TODO: description
 
 ## Usage
 
 ```
-const app = require('app');
+const uiKit = require('ui-kit');
 
 // TODO: DEMONSTRATE API
 ```
