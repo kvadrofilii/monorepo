@@ -4918,6 +4918,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"test-kvadrofilii-app@workspace:packages/app":
+  version: 0.0.0-use.local
+  resolution: "test-kvadrofilii-app@workspace:packages/app"
+  languageName: unknown
+  linkType: soft
+
+"test-kvadrofilii-test@workspace:packages/test":
+  version: 0.0.0-use.local
+  resolution: "test-kvadrofilii-test@workspace:packages/test"
+  languageName: unknown
+  linkType: soft
+
+"test-kvadrofilii-ui-kit@workspace:packages/ui-kit":
+  version: 0.0.0-use.local
+  resolution: "test-kvadrofilii-ui-kit@workspace:packages/ui-kit"
+  languageName: unknown
+  linkType: soft
+
 "text-extensions@npm:^1.0.0":
   version: 1.9.0
   resolution: "text-extensions@npm:1.9.0"
